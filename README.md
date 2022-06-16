@@ -1,2 +1,3 @@
 # Semantic-Segmentation-Off-Road-Environment
-Semantic segmentation of Off Road Drive Environment
+Rellis 3D dataset should be downloaded from https://github.com/unmannedlab/RELLIS-3D
+
